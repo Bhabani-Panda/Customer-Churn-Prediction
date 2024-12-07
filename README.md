@@ -1,6 +1,6 @@
 
 # Predicting Customer Attrition for strategic Retention
-![download](https://github.com/user-attachments/assets/54410f19-8440-49ba-a8fc-b5f9750da2a7)\
+![download](https://github.com/user-attachments/assets/f229867b-20ba-4922-a46d-4ba294cd3ad8)\
 This repository contains a complete pipeline for building and deploying a Customer Churn Prediction model using machine learning techniques. The project uses a dataset of customer interactions with an e-commerce company and provides insights into the likelihood of customers canceling their subscription or service.
 
 **Table of Contents**\
