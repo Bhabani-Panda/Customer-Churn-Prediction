@@ -49,7 +49,7 @@ The following classification models were evaluated:
 2. Random Forest
 3. Logistic Regression
 
-Metrics used:
+Metrics used:\
 •	Accuracy\
 •	F1-Score
 
