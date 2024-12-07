@@ -10,8 +10,6 @@ This repository contains a complete pipeline for building and deploying a Custom
 •	Data Preprocessing\
 •	Model Training and Evaluation\
 •	Model Deployment\
-•	Getting Started\
-•	How to Use\
 •	Results\
 •	Acknowledgements
 
