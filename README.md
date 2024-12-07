@@ -50,7 +50,7 @@ The following classification models were evaluated:
 3. Logistic Regression
 
 Metrics used:
-•	Accuracy
+•	Accuracy\
 •	F1-Score
 
 Final Model:\
